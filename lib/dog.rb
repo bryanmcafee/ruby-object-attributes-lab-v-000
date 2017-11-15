@@ -15,4 +15,3 @@ class Dog
     "#{@name} #{@breed}".strip
   end
 end
-fido = Dog.new
