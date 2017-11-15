@@ -12,4 +12,3 @@ class Dog
     @name= new_nameend
   end
 end
-
