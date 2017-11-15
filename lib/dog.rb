@@ -1,5 +1,5 @@
 class Dog
-  
+
   def initialize(name, breed)
     @name = name
     @breed = breed
@@ -15,3 +15,4 @@ class Dog
     "#{@name} #{@breed}".strip
   end
 end
+fido = Dog.new
